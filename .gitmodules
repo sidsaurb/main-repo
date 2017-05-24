@@ -1,0 +1,3 @@
+[submodule "sub-repo1"]
+	path = sub-repo1
+	url = https://github.com/sidsaurb/sub-repo1.git
